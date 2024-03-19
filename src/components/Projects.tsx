@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Projects() {
   return (
     <>
-      <section id="projects" style={{ height: "100vh", padding: "5%" }}>
+      <section id="projects" style={{ padding: "5%" }}>
         <h1 className="text-center">Projects</h1>
         <p className="text-center">Check out a few of my projects!</p>
 

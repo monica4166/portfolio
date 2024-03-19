@@ -1,7 +1,7 @@
 function Education() {
   return (
     <>
-      <section id="education" style={{ height: "100vh", padding: "5%" }}>
+      <section id="education" style={{ padding: "6%" }}>
         <h1 className="text-center"> Education</h1>
 
         <div className="container">

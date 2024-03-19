@@ -5,7 +5,7 @@ import { faEnvelope, faPhone } from "@fortawesome/free-solid-svg-icons";
 function Home() {
   return (
     <>
-      <section id="home" style={{ height: "100vh", padding: "5%" }}>
+      <section id="home" style={{ padding: "6%" }}>
         <div className="container mt-7">
           <div className="row align-items-center">
             <div className="container col-sm-4">

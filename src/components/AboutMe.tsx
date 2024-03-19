@@ -8,7 +8,7 @@ import { faCode, faDatabase, faMedal } from "@fortawesome/free-solid-svg-icons";
 function AboutMe() {
   return (
     <>
-      <section id="about" style={{ height: "100vh", padding: "5%" }}>
+      <section id="about" style={{ padding: "6%" }}>
         <div className="container">
           <h2 className="font-weight-bold mb-4 text-center">About Me</h2>
           <div>
@@ -30,10 +30,7 @@ function AboutMe() {
           </div>
         </div>
 
-        <div
-          className="container mt-7"
-          style={{ padding: "2%", height: "100vh" }}
-        >
+        <div className="container mt-7" style={{ margin: "2%" }}>
           <div className="row">
             <div className="container col-sm-3">
               <Cards

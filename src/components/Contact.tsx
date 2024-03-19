@@ -5,7 +5,7 @@ import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 function Contact() {
   return (
     <>
-      <section id="contact" style={{ height: "100vh", padding: "5%" }}>
+      <section id="contact" style={{ padding: "6%" }}>
         <h1 className="text-center">Contact</h1>
         <p className="text-center">Get in touch!</p>
 

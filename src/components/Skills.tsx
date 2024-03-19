@@ -2,7 +2,7 @@ import Progress from "./Progress";
 function Skills() {
   return (
     <>
-      <section id="skills" style={{ height: "100vh", padding: "5%" }}>
+      <section id="skills" style={{ padding: "5%" }}>
         <div className="text-center">
           <h1>Skills</h1>
         </div>

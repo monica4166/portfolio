@@ -1,7 +1,7 @@
 function Experience() {
   return (
     <>
-      <section id="experience" style={{ height: "100vh", padding: "5%" }}>
+      <section id="experience" style={{ padding: "5%" }}>
         <h1 className="text-center">Experience</h1>
         <div style={{ margin: "2%" }}>
           <ul className="list-unstyled">
