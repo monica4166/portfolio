@@ -35,7 +35,7 @@ function Projects() {
             </div>
 
             <div className="container col-sm-4">
-              <div className="card" style={{ width: "18rem", height: "50vh" }}>
+              <div className="card" style={{ width: "18rem" }}>
                 <img
                   src={"images/ethicsDashboard.png"}
                   className="card-img-top"
@@ -59,7 +59,7 @@ function Projects() {
             </div>
 
             <div className="container col-sm-4">
-              <div className="card" style={{ width: "18rem", height: "50vh" }}>
+              <div className="card" style={{ width: "18rem" }}>
                 <img
                   src={"images/TicTacToe.png"}
                   className="card-img-top"
