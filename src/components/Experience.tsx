@@ -2,7 +2,9 @@ function Experience() {
   return (
     <>
       <section id="experience" style={{ padding: "6%" }}>
-        <h1 className="text-center">Experience</h1>
+        <h1 className="text-center" style={{ marginTop: "3%" }}>
+          Experience
+        </h1>
         <div style={{ margin: "2%" }}>
           <ul className="list-unstyled">
             <li className="mb-5 border-start" style={{ padding: "2%" }}>

@@ -2,7 +2,9 @@ function Education() {
   return (
     <>
       <section id="education" style={{ padding: "6%" }}>
-        <h1 className="text-center"> Education</h1>
+        <h1 className="text-center" style={{ marginTop: "3%" }}>
+          Education
+        </h1>
 
         <div className="container">
           <div className="row align-items-center" style={{ height: "75vh" }}>

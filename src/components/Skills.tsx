@@ -3,7 +3,7 @@ function Skills() {
   return (
     <>
       <section id="skills" style={{ padding: "6%" }}>
-        <div className="text-center">
+        <div className="text-center" style={{ marginTop: "3%" }}>
           <h1>Skills</h1>
         </div>
 

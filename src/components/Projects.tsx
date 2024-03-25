@@ -6,7 +6,9 @@ function Projects() {
   return (
     <>
       <section id="projects" style={{ padding: "6%" }}>
-        <h1 className="text-center">Projects</h1>
+        <h1 className="text-center" style={{ marginTop: "3%" }}>
+          Projects
+        </h1>
         <p className="text-center">Check out a few of my projects!</p>
 
         <div className="container mt-7" style={{ margin: "5%" }}>

@@ -6,7 +6,9 @@ function Contact() {
   return (
     <>
       <section id="contact" style={{ padding: "6%" }}>
-        <h1 className="text-center">Contact</h1>
+        <h1 className="text-center" style={{ marginTop: "3%" }}>
+          Contact
+        </h1>
         <p className="text-center">Get in touch!</p>
 
         <div

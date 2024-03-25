@@ -11,8 +11,8 @@ function Navigation() {
             <img
               src="images/Logo-Dark-Lg.png"
               style={{
-                height: "10%",
-                width: "10%",
+                height: "15%",
+                width: "15%",
               }}
             />
           </a>

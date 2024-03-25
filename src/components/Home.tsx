@@ -6,7 +6,7 @@ function Home() {
   return (
     <>
       <section id="home" style={{ padding: "6%" }}>
-        <div className="container mt-7">
+        <div className="container mt-7" style={{ marginTop: "3%" }}>
           <div className="row align-items-center">
             <div className="container col-sm-4">
               <h1 className="fw-bold mb-4">Hi, i'm Monica!</h1>

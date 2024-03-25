@@ -9,7 +9,7 @@ function AboutMe() {
   return (
     <>
       <section id="about" style={{ padding: "6%" }}>
-        <div className="container">
+        <div className="container" style={{ marginTop: "3%" }}>
           <h2 className="font-weight-bold mb-4 text-center">About Me</h2>
           <div>
             <p className="fw-bold text-success">Hi, i'm Monica!</p>
