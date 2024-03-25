@@ -1,7 +1,7 @@
 function Experience() {
   return (
     <>
-      <section id="experience" style={{ padding: "5%" }}>
+      <section id="experience" style={{ padding: "6%" }}>
         <h1 className="text-center">Experience</h1>
         <div style={{ margin: "2%" }}>
           <ul className="list-unstyled">
@@ -47,7 +47,7 @@ function Experience() {
                 <ul>
                   <li>
                     Instructed students in lab sessions and provided technical
-                    and non-technical support increasing lab attendance by 20%..
+                    and non-technical support increasing lab attendance by 20%.
                   </li>
                   <li>
                     Assisted students with troubleshooting software environment
